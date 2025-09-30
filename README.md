@@ -46,6 +46,7 @@ Agora acesse no navegador:
 - ⌨️ [TypeScript](https://www.typescriptlang.org/) – Tipagem estática
 - 🎨 [Styled Components](https://styled-components.com/) – Estilização
 - 🔄 [React Hooks (useReducer, useEffect, useState)](https://react.dev/reference/react) – Gerenciamento de estado
+- 🚦 [React Router](https://reactrouter.com/) – Navegação e rotas SPA
 - 🌐 [Axios](https://axios-http.com/) – Requisições HTTP
 - 📦 [Vite](https://vitejs.dev/) – Build tool para projetos React
 
