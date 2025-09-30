@@ -5,6 +5,10 @@ O objetivo é demonstrar boas práticas no uso de **Hooks**, organização de co
 
 ---
 
+![Logo do Projeto](./public/tela_inicial.png)
+
+---
+
 ## 🚀 Como rodar o projeto
 
 ### 1. Clone o repositório
